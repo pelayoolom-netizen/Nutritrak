@@ -1,0 +1,6 @@
+{
+  "name": "Micron",
+  "description": "Aplicación de nutrición moderna, inteligente y premium con escáner de alimentos, objetivos inteligentes, rachas, peso y seguimiento de macros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

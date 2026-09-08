@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- CAL AI / Micron Logo: Stylized N with ascending growth pillars -->
+    <!-- Middle Pillar -->
+    <path
+        android:fillColor="#34C759"
+        android:pathData="M48,32 C48,26.48 52.48,22 58,22 C63.52,22 68,26.48 68,32 L68,60 C68,65.52 63.52,70 58,70 C52.48,70 48,65.52 48,60 Z" />
+    <!-- Right Tall Pillar -->
+    <path
+        android:fillColor="#248A3D"
+        android:pathData="M70,18 C70,12.48 74.48,8 80,8 C85.52,8 90,12.48 90,18 L90,82 C90,87.52 85.52,92 80,92 C74.48,92 70,87.52 70,82 Z" />
+    <!-- Main N Loop: Curved left stem flowing into diagonal -->
+    <path
+        android:fillColor="#30D158"
+        android:pathData="M18,92 C12.48,92 8,87.52 8,82 L8,46 C8,34.95 16.95,26 28,26 C39.05,26 48,34.95 48,46 L48,68 C48,72.42 51.58,76 56,76 C60.42,76 64,72.42 64,68 L64,82 C64,87.52 59.52,92 54,92 C42.95,92 34,83.05 34,72 L34,50 C34,45.58 30.42,42 26,42 C21.58,42 18,45.58 18,50 L18,82 C18,87.52 22.48,92 28,92 Z" />
+</vector>
